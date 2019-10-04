@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Timezone Viewer</string>
+
+    <string name="default_city">DEFAULT</string>
+    <string name="default_time">00:00</string>
+    <string name="default_image">DEFAULT</string>
+
+    <string name="amsterdam">Amsterdam</string>
+    <string name="bangkok">Bangkok</string>
+    <string name="dubai">Dubai</string>
+    <string name="london">London</string>
+    <string name="mexico_city">Mexico City</string>
+    <string name="new_york">New York</string>
+    <string name="paris">Paris</string>
+    <string name="sydney">Sydney</string>
+    <string name="tokyo">Tokyo</string>
+    <string name="toronto">Toronto</string>
+    <string name="vancouver">Vancouver</string>
+
+    <string name="HR_12">12 Hour</string>
+    <string name="HR_24">24 Hour</string>
+
+</resources>
